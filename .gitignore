@@ -1,0 +1,6 @@
+train.csv
+test.csv
+mnist-images/
+sample_submission.csv
+mnist-test-images/
+models/
